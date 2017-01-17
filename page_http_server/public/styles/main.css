@@ -1,0 +1,43 @@
+* {
+    font-family: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    margin: 10px;
+}
+
+h2{
+    margin: 5px 10px;
+}
+
+h2{
+    margin: 3px 5px;
+}
+
+p{
+    margin: 10px 15px;
+}
+
+nav{
+    display: block;
+    color: white;
+    background: #333;
+    padding: 0px;
+}
+
+nav a, nav a:visited{
+    color: #ddd;
+    padding: 16px 10px;
+    display: inline-block;
+}
+
+nav a:hover{
+    background: #555;
+    color: #fff;
+}
+
+.fit-page-with{
+    width: 100%;
+}
